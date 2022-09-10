@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "swoop")(type "KiCad")(uri "${KIPRJMOD}/../../libraries/swoop.pretty")(options "")(descr ""))
-)

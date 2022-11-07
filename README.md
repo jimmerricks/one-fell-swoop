@@ -37,7 +37,7 @@ To build and use a Swoop MX you will need:
 * 34-36× Kailh hotswap sockets
 * 34-36× SK6812 Mini-E RGB SMD Leds (optional; not recommended for wireless)
 * 34-36× keycaps
-* 2× Rotary encoders & knobs (optional)
+* 2× Rotary encoders & knobs (optional; ALPS EC11)
 * 2× OLED LCD Display 128x32 SSD1306 (optional)
 * 2× reset switches (optional; B3U-1000P(M))
 * Some little rubber feet/bumpers
@@ -45,4 +45,10 @@ To build and use a Swoop MX you will need:
 * 2× lipo batteries (wireless only; 301230 or 301228)
 * 1× TRRS (not TRS!) cable (wired only)
 * 2× TRRS Jack [PJ-320A] (wired only)
-* 1× USB Cable (depends on your micro-controller choice)
+* 1× USB Cable (depends on your micro-controller choice)  
+
+**For the case:**
+
+* 16× M2 Screws (3mm thread length)  
+* 10× M2 Standoff for the plates (7mm)
+* 6× M2 Standoff for the controller cover (8mm)

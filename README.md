@@ -37,7 +37,7 @@ To build and use a Swoop MX you will need:
 * 34-36× Kailh hotswap sockets
 * 34-36× SK6812 Mini-E RGB SMD Leds (optional; not recommended for wireless)
 * 34-36× keycaps
-* 34-36x 1N4148W SOD-123 SMD Diodes 
+* 34-36x 1N4148 diodes 
 * 2× Rotary encoders & knobs (optional; ALPS EC11)
 * 2× OLED LCD Display 128x32 SSD1306 (optional)
 * 2× reset switches (optional; B3U-1000P(M))

@@ -50,7 +50,7 @@ To build and use a Swoop MX you will need:
 
 **For the case:**
 
-* 16× M2 Screws (3mm thread length)  
+* 32× M2 Screws (3mm thread length)  
 * 10× M2 Standoff for the plates (7mm)
 * 6× M2 Standoff for the controller cover (8mm)
 

@@ -54,6 +54,25 @@ To build and use a Swoop MX you will need:
 * 10× M2 Standoff for the plates (7mm)
 * 6× M2 Standoff for the controller cover (8mm)
 
+### Price Estimate (5 keyboards)
+* PCB - 10.13 USD
+* Carbon fiber plate 1.6mm (base, switch, cover) - 37.09 USD
+* Crylic plate 2.00mm (cover) - 6.42 USD
+* nice!nanos - 41 USD
+* Kailh Arctic Fox Switches - 66.86 USD
+* Kailh hotswap sockets - 12.86 USD
+* SK6812 Mini-E RGB SMD Leds - 10.00 USD
+* keycaps - 92.00 USD
+* diodes - 1.00 USD
+* OLED LCD Display 128x32 SSD1306 - 10.00 USD
+* reset switches B3U-1000P(M) - 1.00 USD
+* power switches (wireless only; MSK 12C02) -- 0.68 USD
+* lipo batteries (wireless only; 301230 or 301228) -- 8.2 USD
+* TRRS (not TRS!) cable - 7.07 USD
+* TRRS Jack [PJ-320A] - 0.86 USD
+* USB Cable - 49.28 USD
+* M2 Screw and Standoff - 5.00 USD
+
 ### How to build it
 
 <a href="https://youtu.be/pvvNYPsMyz4" target="_blank">
